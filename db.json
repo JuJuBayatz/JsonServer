@@ -1,5 +1,6 @@
 {
   "tenants": 
+  [
     {
       "id":1,
       "logo":"",
@@ -8,7 +9,7 @@
       "secondary":"4294817051"
       
     }
-  ,
+  ],
   "profile": {
     "name": "typicode"
   }

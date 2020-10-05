@@ -2,7 +2,12 @@
   "tenants": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "hello",
+      "logo":"",
+      "splash":"",
+      "primary":4278466164,// primary = Color(0xFF043674);  
+      "secondary":4294817051  //secondary = Color(0xFFFDB51B);
+      
     }
   ],
   "profile": {
